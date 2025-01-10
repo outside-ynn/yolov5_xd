@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>1004.jpg</filename>
+	<path>C:\Users\yangn\Desktop\VOCdevkit\VOC2007\JPEGImages\1004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wubianx</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>898</ymin>
+			<xmax>1127</xmax>
+			<ymax>1310</ymax>
+		</bndbox>
+	</object>
+</annotation>

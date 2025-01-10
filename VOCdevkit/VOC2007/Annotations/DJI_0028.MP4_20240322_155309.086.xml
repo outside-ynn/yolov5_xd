@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>DJI_0028.MP4_20240322_155309.086.jpg</filename>
+	<path>C:\Users\yangn\Desktop\VOCdevkit\VOC2007\JPEGImages\DJI_0028.MP4_20240322_155309.086.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wubianx</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1322</xmin>
+			<ymin>362</ymin>
+			<xmax>1405</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>
